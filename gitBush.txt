@@ -1,6 +1,5 @@
 1) Посмотреть где я
 $ pwd
-/c/Users/Valentina/Desktop/обучение
 
 2) Создать папку
 Valentina@VALENTINA MINGW64 ~/Desktop/обучение
