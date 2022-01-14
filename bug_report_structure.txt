@@ -1,0 +1,9 @@
+   	1. ID Bug 
+        2.Bug Summary
+        3.Severity
+        4.Priority
+        5.Author 
+        6.Steps to reproduce
+        7.environment
+	8,Actual Result
+        9,Expected Result
