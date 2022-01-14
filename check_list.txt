@@ -1,0 +1,6 @@
+ Structure of check-list 
+	1. ID
+	2. Appointment
+	3.Steps
+	4.Expected Result
+	5.Actual result
