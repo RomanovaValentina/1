@@ -45,6 +45,7 @@
 	   f1763b9..6d585d1  Bag_Reports -> Bag_Reports
 	
 5. Вмержить ветку Bag Reports в Main
+
 	Valentina@VALENTINA MINGW64 ~/Desktop/gitHub/work (main)
 	$ git merge Bag_Reports
 	Updating f1763b9..6d585d1
