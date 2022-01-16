@@ -5,5 +5,5 @@
         5.Author 
         6.Steps to reproduce
         7.environment
-	8,Actual Result
-        9,Expected Result
+	8.Actual Result
+        9.Expected Result
